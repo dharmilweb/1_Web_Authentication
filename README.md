@@ -8,7 +8,7 @@
 </p>
 
 ## About Web Authentication
-    Laravel Provide Default Authentication follow some Command & stapes.
+    Laravel provide default Authentication follow some command & stapes.
 
 ## Learning Web Authentication
 - Create Project
