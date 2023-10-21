@@ -13,8 +13,10 @@
 ## Learning Web Authentication
 - Create Project
     - Command :-
-        <laravel new 1_Authenticaion>
-        <cd 1_Authenticaion>
+    ```
+        laravel new 1_Authenticaion
+        cd 1_Authenticaion
+    ```
 
 - Add Database :-
     <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_1.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_1.png" width="400" alt="Laravel Logo"></a></p>
