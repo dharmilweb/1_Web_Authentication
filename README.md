@@ -59,6 +59,15 @@
 
     <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Output_4.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Output_4.png" width="400" alt="Laravel Logo"></a></p>
 
+## Support
+    Laravel having different types of `Authentication` for [Web] & [Api] Checkout its.
+
+- Web Authentication
+- Api Authentication
+
+[Web]: https://github.com/dharmilweb/1_Web_Authentication
+[Api]: https://github.com/dharmilweb/1_Web_Authentication
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
