@@ -12,13 +12,13 @@
 
 ## Learning Web Authentication
 
-- 1) Create Project
+- Create Project
     Command :-
         laravel new 1_Authenticaion
         cd 1_Authenticaion
 
 - 2) Add Database :-
-    <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_1.png" width="400" alt="Laravel Logo"></a></p>
+    <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_1.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_1.png" width="800" height= "800" alt="Laravel Logo"></a></p>
 
     Command :-
         DB_CONNECTION=mysql
@@ -31,6 +31,8 @@
 - 3) Add Tables in Database...
     Command :-
 		php artisan migrate
+
+    <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_2.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_2.png" width="800" height= "800" alt="Laravel Logo"></a></p>
 
 - 4) Add Authenticaion 
     Command :-
