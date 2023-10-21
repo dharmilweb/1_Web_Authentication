@@ -22,29 +22,33 @@
     <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_1.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_1.png" width="400" alt="Laravel Logo"></a></p>
 
     - Change .env file :-
-        <p>DB_CONNECTION=mysql</p>
-        <p>DB_HOST=127.0.0.1</p>
-        <p>DB_PORT=3306</p>
-        <p>DB_DATABASE=1_Authenticaion</p>
-        <p>DB_USERNAME=root</p>
-        <p>DB_PASSWORD=</p>
-
+        ```html
+            DB_CONNECTION=mysql
+            DB_HOST=127.0.0.1
+            DB_PORT=3306
+            DB_DATABASE=1_Authenticaion
+            DB_USERNAME=root
+            DB_PASSWORD=
+        ```
 -  Add Tables in Database...
     - Command :-
-        - php artisan migrate
-
+        ```
+            php artisan migrate
+        ```
     <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_2.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_2.png" width="400" alt="Laravel Logo"></a></p>
 
     <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_3.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_3.png" width="400" alt="Laravel Logo"></a></p>
 
 - Add Authenticaion
     - Command :-
-        - composer require laravel/ui
-        - php artisan ui bootstrap --auth
+        ```
+            composer require laravel/ui
+            php artisan ui bootstrap --auth
 
-        - npm install
-        - npm run dev     OR      npm run build
-
+            npm install
+            npm run dev     OR      npm run build
+        ```
+        
 - Go First Register, Login User & Check Authentication
 
     <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Output_1.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Output_1.png" width="400" alt="Laravel Logo"></a></p>
