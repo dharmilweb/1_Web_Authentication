@@ -18,7 +18,7 @@
         cd 1_Authenticaion
 
 - 2) Add Database :-
-    <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_1.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_1.png" width="800" height= "800" alt="Laravel Logo"></a></p>
+    <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_1.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_1.png" width="400" alt="Laravel Logo"></a></p>
 
     Command :-
         DB_CONNECTION=mysql
@@ -32,7 +32,9 @@
     Command :-
 		php artisan migrate
 
-    <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_2.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_2.png" width="800" height= "800" alt="Laravel Logo"></a></p>
+    <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_2.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_2.png" width="400" alt="Laravel Logo"></a></p>
+
+    <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_3.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_3.png" width="400" alt="Laravel Logo"></a></p>
 
 - 4) Add Authenticaion 
     Command :-
@@ -43,6 +45,14 @@
         npm run dev     OR      npm run build
 
 - 5) Go First Register, Login User & Check Authentication
+
+    <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Output_1.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Output_1.png" width="400" alt="Laravel Logo"></a></p>
+
+    <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Output_2.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Output_2.png" width="400" alt="Laravel Logo"></a></p>
+    
+    <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Output_3.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Output_3.png" width="400" alt="Laravel Logo"></a></p>
+
+    <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Output_4.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Output_4.png" width="400" alt="Laravel Logo"></a></p>
 
 ## License
 
