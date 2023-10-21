@@ -11,16 +11,15 @@
     Laravel Provide Default Authentication follow some Command & stapes.
 
 ## Learning Web Authentication
-
 - Create Project
-    Command :-
-        laravel new 1_Authenticaion
-        cd 1_Authenticaion
+    - Command :-
+        <laravel new 1_Authenticaion>
+        <cd 1_Authenticaion>
 
 - 2) Add Database :-
     <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_1.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_1.png" width="400" alt="Laravel Logo"></a></p>
 
-    Command :-
+    - Command :-
         DB_CONNECTION=mysql
 		DB_HOST=127.0.0.1
 		DB_PORT=3306
@@ -29,7 +28,7 @@
 		DB_PASSWORD=
 
 - 3) Add Tables in Database...
-    Command :-
+    - Command :-
 		php artisan migrate
 
     <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_2.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_2.png" width="400" alt="Laravel Logo"></a></p>
@@ -37,7 +36,7 @@
     <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_3.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_3.png" width="400" alt="Laravel Logo"></a></p>
 
 - 4) Add Authenticaion 
-    Command :-
+    - Command :-
         composer require laravel/ui
         php artisan ui bootstrap --auth
 
