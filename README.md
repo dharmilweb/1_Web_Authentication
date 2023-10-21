@@ -20,13 +20,17 @@
     <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Input_1.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Input_1.png" width="400" alt="Laravel Logo"></a></p>
 
     - Command :-
-        DB_CONNECTION=mysql
-		DB_HOST=127.0.0.1
-		DB_PORT=3306
-		DB_DATABASE=1_Authenticaion
-		DB_USERNAME=root
-		DB_PASSWORD=
+        
 
+
+<p align="center">
+    <p>DB_CONNECTION=mysql</p><br>
+    <p>DB_HOST=127.0.0.1</p><br>
+    <p>DB_PORT=3306</p><br>
+    <p>DB_DATABASE=1_Authenticaion</p><br>
+    <p>DB_USERNAME=root</p><br>
+    <p>DB_PASSWORD=</p><br>
+</p>
 - 3) Add Tables in Database...
     - Command :-
 		php artisan migrate
