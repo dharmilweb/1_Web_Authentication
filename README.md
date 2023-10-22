@@ -30,7 +30,7 @@
             DB_USERNAME=root
             DB_PASSWORD=
         ```
-        
+
 -  Add Tables in Database...
     - Command :-
         ```
@@ -68,7 +68,7 @@
 
     - Url :-
         ```
-            http://localhost:8000/api/documentation
+            http://localhost:8000/login
         ```
 
 ## Support
