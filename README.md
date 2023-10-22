@@ -75,10 +75,13 @@
 Laravel having different types of `Authentication` for Web & Api Checkout its.
 
 - [Web Authentication]
-- [Api Authentication]
+- [Api Jwt Authentication]
+- [Api Sanctum Authentication]
 
 [Web Authentication]: https://github.com/dharmilweb/1_Web_Authentication
-[Api Authentication]: https://github.com/dharmilweb/2_Api_Jwt_Authentication
+[Api Jwt Authentication]: https://github.com/dharmilweb/2_Api_Jwt_Authentication
+[Api Sanctum Authentication]: https://github.com/dharmilweb/3_Api_Sanctum_Auth
+
 
 ## License
 
