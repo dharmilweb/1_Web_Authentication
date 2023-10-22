@@ -30,6 +30,7 @@
             DB_USERNAME=root
             DB_PASSWORD=
         ```
+        
 -  Add Tables in Database...
     - Command :-
         ```
@@ -59,14 +60,25 @@
 
     <p align="center"><a href="https://raw.githubusercontent.com/dharmilweb/1_Web_Authentication/main/public/Auth_History/Output_4.png" target="_blank"><img src="https://github.com/dharmilweb/1_Web_Authentication/blob/main/public/Auth_History/Output_4.png" width="400" alt="Laravel Logo"></a></p>
 
+- Run Laravel Project...
+    - Command :-
+        ```
+            php artisan serve
+        ```
+
+    - Url :-
+        ```
+            http://localhost:8000/api/documentation
+        ```
+
 ## Support
-Laravel having different types of `Authentication` for [Web] & [Api] Checkout its.
+Laravel having different types of `Authentication` for Web & Api Checkout its.
 
-- Web Authentication
-- Api Authentication
+- [Web Authentication]
+- [Api Authentication]
 
-[Web]: https://github.com/dharmilweb/1_Web_Authentication
-[Api]: https://github.com/dharmilweb/1_Web_Authentication
+[Web Authentication]: https://github.com/dharmilweb/1_Web_Authentication
+[Api Authentication]: https://github.com/dharmilweb/2_Api_Jwt_Authentication
 
 ## License
 
