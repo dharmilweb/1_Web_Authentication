@@ -14,7 +14,7 @@
 - Create Project
     - Command :-
     ```
-        laravel new 1_Authenticaion
+        laravel new 1_Authenticaion     &&      composer create-project laravel/laravel 1_Authenticaion
         cd 1_Authenticaion
     ```
 
@@ -77,10 +77,12 @@ Laravel having different types of `Authentication` for Web & Api Checkout its.
 - [Web Authentication]
 - [Api Jwt Authentication]
 - [Api Sanctum Authentication]
+- [Full Authentication Project CURD]
 
 [Web Authentication]: https://github.com/dharmilweb/1_Web_Authentication
 [Api Jwt Authentication]: https://github.com/dharmilweb/2_Api_Jwt_Authentication
 [Api Sanctum Authentication]: https://github.com/dharmilweb/3_Api_Sanctum_Auth
+[Full Authentication Project CURD]: https://github.com/dharmilweb/4_Auth_Product_Curd
 
 
 ## License
